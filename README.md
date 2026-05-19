@@ -48,7 +48,6 @@ Download Final Result
 | Streamlit | Web application interface |
 | Pillow (PIL) | Image processing |
 | rembg | AI background removal |
-| NumPy | Numerical processing |
 | io | Byte stream handling |
 
 ---
