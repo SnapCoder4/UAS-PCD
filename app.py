@@ -32,7 +32,6 @@ def try_import(module_name: str):
         IMPORT_ERRORS.append(f"❌ `{module_name}` — {e}")
         return None
 
-np_mod    = try_import("numpy")
 PIL_mod   = try_import("PIL")
 rembg_mod = try_import("rembg")
 
@@ -48,7 +47,6 @@ if IMPORT_ERRORS:
     st.stop()
 
 # Safe to import now
-import numpy as np
 from PIL import Image
 from rembg import remove
 
