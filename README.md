@@ -64,7 +64,7 @@ The removed background is converted into transparent pixels using RGBA alpha cha
 
 ### Web Interface
 
-![UI Preview](assets/ui-preview.png)
+![UI Preview](assets/Ui-Preview.png)
 
 ---
 
