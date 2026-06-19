@@ -70,9 +70,7 @@ The removed background is converted into transparent pixels using RGBA alpha cha
 
 ### Processing Result
 
-| Original Image | Background Removed | Final Composite |
-|---|---|---|
-| ![](assets/original.png) | ![](assets/removed.png) | ![](assets/final.png) |
+![UI Preview](assets/UI-Output.png)
 
 ---
 
